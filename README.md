@@ -1,4 +1,2 @@
-# hello-world
+## demo ##
 my first progrom
-
-today is a big day,because i begin to know something about github .
